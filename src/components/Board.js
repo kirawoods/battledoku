@@ -7,7 +7,7 @@ export function Board() {
       <div className="board-header">Battledoku</div>
       <div className="game-board">
         <div className="nine-container">
-          <div className="number-box"></div>
+          <div className="number-box">1</div>
           <div className="number-box"></div>
           <div className="number-box"></div>
           <div className="number-box"></div>
