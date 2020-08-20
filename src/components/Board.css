@@ -3,6 +3,10 @@
   text-align: center;
 }
 
+.board-header {
+  font-size: 30px;
+}
+
 .game-board {
   margin: 30px auto;
   display: flex;
