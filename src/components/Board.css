@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap");
+
 .Board {
   width: 70%;
   text-align: center;
@@ -5,6 +7,7 @@
 
 .board-header {
   font-size: 30px;
+  font-family: "Do Hyeon", sans-serif;
 }
 
 .game-board {

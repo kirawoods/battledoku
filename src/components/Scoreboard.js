@@ -5,12 +5,12 @@ export function Scoreboard() {
   return (
     <div className="Scoreboard">
       <div className="player-container">
-        <div className="home-player">Player One</div>
-        <div className="home-player-score">Score: 200</div>
+        <div className="player">Player One</div>
+        <div className="player-score">Score: 200</div>
       </div>
       <div className="player-container">
-        <div className="away-player">Player Two</div>
-        <div className="away-player-score">Score: 600</div>
+        <div className="player">Player Two</div>
+        <div className="player-score">Score: 600</div>
       </div>
       <div className="rules-container">
         <div className="rules-body">

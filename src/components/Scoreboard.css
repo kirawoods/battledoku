@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Nanum+Gothic&display=swap");
+
 .Scoreboard {
   width: 30%;
   text-align: center;
@@ -7,17 +9,28 @@
 }
 
 .player-container {
+  font-family: "Do Hyeon", sans-serif;
   background: white;
   margin: 20px;
   padding: 20px;
   border-radius: 5px;
 }
 
+.player {
+  font-size: 20px;
+  padding: 0 0 10px 0;
+}
+
+.player-score {
+  font-family: "Nanum Gothic", sans-serif;
+}
+
 .rules-container {
+  font-family: "Nanum Gothic", sans-serif;
   text-align: left;
   background-color: #4360a8;
   color: white;
   margin: 20px;
-  padding: 20px 10px;
+  padding: 20px 20px;
   border-radius: 5px;
 }
